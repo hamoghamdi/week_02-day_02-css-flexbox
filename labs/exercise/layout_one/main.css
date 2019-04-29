@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    display:flex;
+    width: 1200px;
+    height: 200px;
+}
+aside{
+    background-color: antiquewhite;
+    flex-grow: 2;
+}
+article{
+    background-color: aqua;
+    flex-grow:4;
+}
+
+header, footer{
+background-color: blueviolet
+}

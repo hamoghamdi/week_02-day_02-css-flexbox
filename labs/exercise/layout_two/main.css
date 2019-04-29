@@ -1,0 +1,13 @@
+header, footer{
+    background-color: brown;
+}
+main{
+    display:flex;
+    align-content: flex-start;
+}
+div{
+    background-color: aquamarine;
+}
+section{
+    background-color: chocolate;
+}
